@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+body{
+    background-color: cornflowerblue;
+}
+h2,p{
+    text-align: center;
+}
+.header{
+    background-color: rgb(247, 157, 125);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.media{ 
+    display:flex;
+    justify-content: flex-end;
+}
